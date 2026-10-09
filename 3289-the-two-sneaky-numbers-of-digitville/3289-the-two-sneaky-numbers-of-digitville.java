@@ -1,3 +1,4 @@
+
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
         boolean [] bool = new boolean[nums.length];
