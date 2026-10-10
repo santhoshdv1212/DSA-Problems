@@ -1,26 +1,24 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        boolean[] isAllowed = new boolean[26];
-        
-        for (char c : allowed.toCharArray()) {
-            isAllowed[c - 'a'] = true;
+        int allowedCH[] = new int[26];
+        for(int i = 0 ; i < allowed.length() ; i++) {
+            allowedCH[allowed.charAt(i) - 'a']++;
         }
-        
-        int consistentCount = 0;
-        
-        for (String word : words) {
-            boolean consistent = true;
-            for (char c : word.toCharArray()) {
-                if (!isAllowed[c - 'a']) {
-                    consistent = false;
-                    break;
-                }
-            }
-            if (consistent) {
-                consistentCount++;
+        int count = 0;
+        for(int i = 0 ; i < words.length ; i++) {
+            if(consistent(allowedCH , words[i])) {
+                count++;
             }
         }
-        
-        return consistentCount;
+        return count;
+    }
+
+    public boolean consistent(int allowedCH[] , String st2) {
+        for(int i = 0 ; i < st2.length() ; i++) {
+            if(allowedCH[st2.charAt(i) - 'a'] == 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
