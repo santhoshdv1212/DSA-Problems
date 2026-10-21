@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1045-customers-who-bought-all-products) |
 | [3521-find-product-recommendation-pairs](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
