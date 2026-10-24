@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/santhoshdv1212/DSA-Problems/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/santhoshdv1212/DSA-Problems/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1045-customers-who-bought-all-products) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [3451-find-invalid-ip-addresses](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3451-find-invalid-ip-addresses) |
 | [3521-find-product-recommendation-pairs](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
