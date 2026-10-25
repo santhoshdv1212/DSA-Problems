@@ -1,16 +1,13 @@
-WITH RankedEmployees AS (
+WITH new_table AS (
     SELECT 
-        departmentId,
-        name AS Employee,
-        salary AS Salary,
-        DENSE_RANK() OVER(PARTITION BY departmentId ORDER BY salary DESC) AS rnk
-    FROM Employee
-)
-SELECT 
-    d.name AS Department,
-    e.Employee,
-    e.Salary
-FROM RankedEmployees e
-JOIN Department d 
+        d.name AS Department,
+        e.name AS Employee,
+        e.salary AS Salary,
+        DENSE_RANK() OVER(PARTITION BY d.name ORDER BY e.salary DESC) AS ranking
+    FROM Employee e
+    LEFT JOIN Department d
     ON e.departmentId = d.id
-WHERE e.rnk <= 3;
+)
+SELECT Department, Employee, Salary
+FROM new_table
+WHERE ranking <= 3;
