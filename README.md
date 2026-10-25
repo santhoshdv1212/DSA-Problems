@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1729-find-followers-count](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1729-find-followers-count) |
 | [3451-find-invalid-ip-addresses](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3451-find-invalid-ip-addresses) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3475-dna-pattern-recognition) |
 | [3521-find-product-recommendation-pairs](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
