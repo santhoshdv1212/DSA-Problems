@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1321-restaurant-growth) |
 | [1517-find-users-with-valid-e-mails](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1729-find-followers-count](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/santhoshdv1212/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [3451-find-invalid-ip-addresses](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3475-dna-pattern-recognition) |
