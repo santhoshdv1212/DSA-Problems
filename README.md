@@ -25,4 +25,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-dna-pattern-recognition](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3475-dna-pattern-recognition) |
 | [3521-find-product-recommendation-pairs](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3564-seasonal-sales-analysis) |
+## Array
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## String
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
