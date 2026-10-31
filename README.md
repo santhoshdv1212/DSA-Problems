@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/santhoshdv1212/DSA-Problems/tree/master/0001-two-sum) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/santhoshdv1212/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santhoshdv1212/DSA-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
